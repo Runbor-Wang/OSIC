@@ -1,6 +1,6 @@
 # OSIC
 ## one-stage image captioner
-### Dependencies
+### Dependencies 
 - python 3.6.9
 - torch 1.7.0+cuda110
 - json5 0.9.5
